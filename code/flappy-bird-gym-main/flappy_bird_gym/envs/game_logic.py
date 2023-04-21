@@ -101,7 +101,7 @@ class FlappyBirdLogic:
         self._screen_width = screen_size[0]
         self._screen_height = screen_size[1]
 
-        self.player_x = int(self._screen_width * 0.2)
+        self.player_x = int(self._screen_width - 15)
         self.player_y = int((self._screen_height - PLAYER_HEIGHT) / 2)
 
         self.base_x = 0

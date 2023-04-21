@@ -1,2 +1,2 @@
 # flappy-bird-stochastic-process-stock-predict
-A project to 
+A Project Using DQN to play Flappy-Bird game And Making Trading Simulation
